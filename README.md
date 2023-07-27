@@ -9,7 +9,6 @@ Welcome to the Password Generator project! This project is a simple Flask web ap
     - [Installation](#installation)
     - [Usage](#usage)
 2. [Contributing](#contributing)
-3. [License](#license)
 
 ## Getting Started
 
