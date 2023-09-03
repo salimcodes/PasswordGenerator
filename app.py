@@ -32,7 +32,6 @@ def generate_password():
 def generate_random_password(characters, length):
     return "".join(random.choice(characters) for _ in range(length))
 
-
 """
 def ensure_first_and_last_letters(password, use_letters):
     if use_letters and password and not password[0].isalpha():
